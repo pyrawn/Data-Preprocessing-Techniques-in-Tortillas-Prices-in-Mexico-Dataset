@@ -4,8 +4,6 @@
 - **Julio Cesar De Aquino Castellanos**
 - **Lorena Danae Perez Lopez**
 
-**Username:** `juliodeaquino`  
-**Key:** Private
 
 ---
 
